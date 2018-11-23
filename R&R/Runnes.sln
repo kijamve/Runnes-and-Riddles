@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Runnes", "Runnes\Runnes.vcproj", "{8CAEB31C-7CEE-4DBA-9470-27EDF489CCD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CAEB31C-7CEE-4DBA-9470-27EDF489CCD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CAEB31C-7CEE-4DBA-9470-27EDF489CCD4}.Debug|Win32.Build.0 = Debug|Win32
+		{8CAEB31C-7CEE-4DBA-9470-27EDF489CCD4}.Release|Win32.ActiveCfg = Release|Win32
+		{8CAEB31C-7CEE-4DBA-9470-27EDF489CCD4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		QtVersion = 4.5.1
+	EndGlobalSection
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndGlobal
